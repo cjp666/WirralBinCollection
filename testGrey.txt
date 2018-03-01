@@ -1,0 +1,235 @@
+
+<html>
+<!-- include new style master - SC 24 08 15 -->
+<!--<link rel="stylesheet" type="text/css" href="http://dru7.wirral.gov.uk/sites/all/themes/wg/master.css" />-->
+ <link rel="stylesheet" type="text/css" href="https://www.wirral.gov.uk/sites/all/themes/wg/master.css?ver=1" />
+ <head></head>
+ 
+<style type="text/css">
+
+a
+{
+	color:#000;
+	line-height: 250%; 
+}
+
+</style>
+<script>
+function nextDiv(a)
+{
+	var nextID=document.getElementById("div"+a);
+	var thisID=document.getElementById("div"+(a-1));
+	thisID.style.visibility="hidden";
+	thisID.style.display="none";
+	nextID.style.visibility="visible";
+	nextID.style.display="inline";
+	//alert(a);
+}
+function prevDiv(a)
+{
+	var prevID=document.getElementById("div"+a);
+	var thisID=document.getElementById("div"+(a+1));
+	thisID.style.visibility="hidden";
+	thisID.style.display="none";
+	prevID.style.visibility="visible";
+	prevID.style.display="inline";
+	//alert(a);
+}
+</script>
+
+
+
+<body>       
+       
+<!--
+<p>Your grey wheelie bin is for all your paper and packaging recycling. All the items below can be recycled into amazing things. Did you know that plastics bottles can be recycled into fleece jackets!</p>
+<p>Please place your bin out before 7am on your collection day below and remove as soon as possible on the same day after emptying.</p>
+<p><a href="/LGCL/100006/200084/851/bookletnew.pdf">For detailed information on this service please click here</a></p>
+<p>Yes please to:</p>
+<ul>
+    <li>All types of plastic bottles including drinks bottles, washing up liquid bottles and shampoo bottles</li>
+    <li>Glass bottles of all colours, or glass jars</li>
+    <li>Magazines, junk mail, newspapers, office paper, windowless envelopes, paper bags, wrapping paper (not foil)</li>
+    <li>Cardboard boxes, cardboard food packaging (not soiled), egg cartons, loo/kitchen rolls or greeting cards</li>
+    <li>Aluminium food or drink cans, steel lids from jars and bottles</li>
+    <li>Telephone directories including yellow pages</li>
+    <li>Catalogues</li>
+</ul>
+<p>No thanks to:</p>
+<ul>
+    <li>Plastic bags</li>
+    <li>Foil</li>
+    <li>Textiles</li>
+    <li>Any food or liquids</li>
+    <li>Tetra packs (milk and juice cartons)</li>
+    <li>Plastic film / cling film</li>
+    <li>Broken drinking glasses / sheet glass</li>
+    <li>Plastic bottle tops</li>
+    <li>Polystyrene</li>
+</ul>
+<p>Do not wrap any recycling in plastic bags. There is no need to crush items just rinse and add loose to your bin</p> --><div id='div1'  style='width:100%;'><!-- w-TWO-d-Wednesday -->
+<!--ex 25/12/2010 = ths 14 March 2018, rep -->
+<!--ex 26/12/2010 = ths 14 March 2018, rep -->
+<!--ex 25/12/2011 = ths 14 March 2018, rep -->
+<!--ex 26/12/2011 = ths 14 March 2018, rep 24/12/2011-->
+<!--ex 25/12/2012 = ths 14 March 2018, rep 22/12/2012-->
+<!--ex 26/12/2012 = ths 14 March 2018, rep 23/12/2012-->
+<!--ex 01/01/2013 = ths 14 March 2018, rep 29/12/2012-->
+<!--ex 25/12/2013 = ths 14 March 2018, rep 21/12/2013-->
+<!--ex 26/12/2013 = ths 14 March 2018, rep 28/12/2013-->
+<!--ex 01/01/2014 = ths 14 March 2018, rep 29/12/2013-->
+<!--ex 25/12/2014 = ths 14 March 2018, rep 27/12/2014-->
+<!--ex 26/12/2014 = ths 14 March 2018, rep 28/12/2014-->
+<!--ex 01/01/2015 = ths 14 March 2018, rep 03/01/2015-->
+<!--ex 25/12/2015 = ths 14 March 2018, rep 27/12/2015-->
+<!--ex 01/01/2016 = ths 14 March 2018, rep 02/01/2016-->
+<!--ex 26/12/2016 = ths 14 March 2018, rep 24/12/2016-->
+<!--ex 25/12/2017 = ths 14 March 2018, rep 23/12/2017-->
+<!--ex 26/12/2017 = ths 14 March 2018, rep 24/12/2017-->
+<!--ex 01/01/2018 = ths 14 March 2018, rep 30/12/2017-->
+
+	<label style="color: white; background-color:#999; font-weight: Bold; width:90%;">
+    	&nbsp;The Dates Below Are For<br/>&nbsp;Paper and packaging (grey bin)
+    	<br/>&nbsp;The next collection is:<br />
+	</label>
+
+	<fieldset style="padding-left:3px; border:none;">
+
+	
+		<legend><span style="color: black; font-weight: Bold;">Wed, 14/03/2018</span></legend>
+
+		<!--<br />-->
+		<!--<p>-->
+        And each following Wednesday
+        <!--</p>-->
+		
+		<ul>
+<!--<table class="collectionDates" cellspacing="0">-->
+		
+<!--	<tr class="RowColour2">
+   
+		<td>March 2018</td>
+
+    --> 	
+<li>14 March 2018</li>
+<li>28 March 2018</li>
+
+<!--		<td>14<sup>th</sup>, 28<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour1">
+   
+		<td>April 2018</td>
+
+    --> 	
+<li>11 April 2018</li>
+<li>25 April 2018</li>
+
+<!--		<td>11<sup>th</sup>, 25<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour2">
+   
+		<td>May 2018</td>
+
+    --> 	
+<li>09 May 2018</li>
+<li>23 May 2018</li>
+
+<!--		<td>9<sup>th</sup>, 23<sup>rd</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour1">
+   
+		<td>June 2018</td>
+
+    --> 	
+<li>06 June 2018</li>
+<li>20 June 2018</li>
+
+<!--		<td>6<sup>th</sup>, 20<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour2">
+   
+		<td>July 2018</td>
+
+    --> 	
+<li>04 July 2018</li>
+<li>18 July 2018</li>
+
+<!--		<td>4<sup>th</sup>, 18<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour1">
+   
+		<td>August 2018</td>
+
+    --> 	
+<li>01 August 2018</li>
+<li>15 August 2018</li>
+<li>29 August 2018</li>
+
+<!--		<td>1<sup>st</sup>, 15<sup>th</sup>, 29<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour2">
+   
+		<td>September 2018</td>
+
+    --> 	
+<li>12 September 2018</li>
+<li>26 September 2018</li>
+
+<!--		<td>12<sup>th</sup>, 26<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour1">
+   
+		<td>October 2018</td>
+
+    --> 	
+<li>10 October 2018</li>
+<li>24 October 2018</li>
+
+<!--		<td>10<sup>th</sup>, 24<sup>th</sup></td>
+	</tr>-->
+		
+<!--	<tr class="RowColour2">
+   
+		<td>November 2018</td>
+
+    --> 	
+<li>07 November 2018</li>
+<li>21 November 2018</li>
+
+<!--		<td>7<sup>th</sup>, 21<sup>st</sup></td>
+	</tr>-->
+
+</ul>
+<!--</table>-->
+ <!--<p><a href="/my-services/environment-and-planning/recycling-rubbish-and-waste/bins/grey-recycling-bins" target="_parent">What can I put in my grey bin</a></p>-->
+ <!-- calendar button woz ere -->
+			<span><a class="wg-button" style="text-align:center; " href="http://www.wirral.gov.uk/recycling/pdf/2018/GreenGrey_08_WedWk2.pdf" target="_blank" onClick="ga('send', 'event', 'Recycling', 'Download', 'PDF Paper and packaging (grey bin)');ga('send', 'pageview', this.href);">
+			<!--<img src="DownloadCalendar2.jpg" alt="Printable Calendar" border="0"/>-->
+ Download a printable bin calendar
+ </a></span>
+
+</fieldset>
+
+<!--<br />-->
+</div>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3100709-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end Google Analytics -->
+</body>
+</html>

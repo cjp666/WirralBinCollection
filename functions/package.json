@@ -20,8 +20,10 @@
         "firebase-functions": "^0.8.1",
         "htmlparser2": "^3.9.2",
         "istanbul": "^0.4.5",
+        "moment": "^2.20.1",
         "request": "^2.83.0",
-        "request-promise-native": "^1.0.5"
+        "request-promise-native": "^1.0.5",
+        "xmldom": "^0.1.27"
     },
     "devDependencies": {
         "@types/chai": "^4.1.2",
